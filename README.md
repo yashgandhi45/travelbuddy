@@ -27,7 +27,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/travelbuddy.git
+git clone https://github.com/yashgandhi45/travelbuddy.git
 cd travelbuddy
 ```
 
